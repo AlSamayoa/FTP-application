@@ -7,7 +7,7 @@ Students:
 
 - Junhao Guo, Jguo1@csu.fullerton.edu
 - Nhi Danis, 
-- Alvaro Samayoa
+- Alvaro Samayoa, Alvaro.samayoa@csu.fullerton.edu
 - Peter West
 - Steven Delgado
 
